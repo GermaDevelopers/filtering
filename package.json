@@ -1,0 +1,28 @@
+{
+  "name": "Filtering - DevExtreme Data Grid",
+  "main": "src/app/app.component.ts",
+  "description": "This example demonstrates the DataGrid’s built-in filtering and searching capabilities. The filter row, located under the column headers, allows a user to type any value and select filter operations. With the header filter, which is called by clicking the filter icon in any column header, a user can choose from a set of predefined values. The search panel at the top of the DataGrid allows searching for values in all columns at once.\n",
+  "dependencies": {
+    "zone.js": "0.10.2",
+    "tslib": "2.0.3",
+    "rxjs": "6.3.3",
+    "rrule": "2.6.6",
+    "preact": "10.5.5",
+    "luxon": "1.25.0",
+    "jszip": "3.5.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-quill": "0.9.5",
+    "devextreme-angular": "20.2.3",
+    "devextreme": "20.2.3",
+    "devexpress-gantt": "2.0.0",
+    "devexpress-diagram": "2.0.0",
+    "core-js": "2.4.1",
+    "@angular/router": "8.0.0",
+    "@angular/platform-browser-dynamic": "8.0.0",
+    "@angular/platform-browser": "8.0.0",
+    "@angular/forms": "8.0.0",
+    "@angular/core": "8.0.0",
+    "@angular/compiler": "8.0.0",
+    "@angular/common": "8.0.0"
+  }
+}
